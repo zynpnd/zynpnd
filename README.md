@@ -1,5 +1,9 @@
 
 ###  Merhaba 👋, Benim adım Zeynep Nida SARICAN
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zynpnd)  
+
+![Profile views](https://gpvc.arturio.dev/zynpnd)  
+
 #### Bilgisayar mühendisiyim.
 
 
@@ -18,6 +22,8 @@ Skills: PHP /  Laravel / HTML / CSS / JS
 
 
 
+## Languages & Framework
 
+![Yaktocat Resmi](https://octodex.github.com/images/yaktocat.png)
 
 
