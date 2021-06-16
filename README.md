@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Merhaba 👋, Ben Zeynep Nida SARICAN</h1>
 <h3 align="center">Bilgisayar mühendisiyim. Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. Frontend ve Backend üzerine çalışıyorum.</h3>
 
@@ -7,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeynepnidasar%c4%b1can" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynepnidasar%c4%b1can" height="30" width="40" /></a>
-<a href="https://medium.com/https://zsarican.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://zsarican.medium.com/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/zeynepnidasaric1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/zeynepnidasaric1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeynepnidasarcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepnidasarcan" height="30" width="40" /></a>
+<a href="https://medium.com/zsarican" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="zsarican" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zeynepnidasaric1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeynepnidasaric1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
