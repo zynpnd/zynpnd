@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, Ben Zeynep Nida SARICAN</h1>
-<h3 align="center">Bilgisayar mühendisiyim. Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. Frontend ve Backend üzerine çalışıyorum.</h3>
+<h1 align="center">Merhaba 👋, Ben Zeynep Nida SARICAN - Computer Engineering|Web Developer</h1>
+<h3 align="center">Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. Frontend ve Backend üzerine çalışıyorum.</h3>
 
 - 🌱 Skills **PHP,LARAVEL,HTML/CSS**
 - 🌱 I’m currently learning **C#, Python, Javascript**
