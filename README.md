@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeynepnidasarcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepnidasarcan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeynepnidasarican" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepnidasarican" height="30" width="40" /></a>
 <a href="https://medium.com/zsarican" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="zsarican" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeynepnidasaric1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeynepnidasaric1" height="30" width="40" /></a>
 </p>
