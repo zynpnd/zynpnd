@@ -1,5 +1,6 @@
 
-###  Merhaba 👋, Benim adım Zeynep Nida SARICAN                                                                                   ![Profile views](https://gpvc.arturio.dev/zynpnd)  
+###  Merhaba 👋, 
+Ben Zeynep Nida SARICAN                                                                                       ![Profile views](https://gpvc.arturio.dev/zynpnd)  
 
 #### Bilgisayar mühendisiyim.
 
