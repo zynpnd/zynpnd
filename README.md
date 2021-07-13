@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Zeynep Nida</h1>
 <h3 align="center">Computer Engineering | Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zynpnd&label=Profile%20views&color=0e75b6&style=flat" alt="zynpnd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zynpnd" alt="zynpnd" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript,React,Python**
 
 - 💬 Ask me about **PHP,Laravel,HTML/CSS**
