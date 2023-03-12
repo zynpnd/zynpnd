@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zynpnd&show_icons=true&locale=en&layout=compact" alt="zynpnd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zynpnd&show_icons=true&locale=en" alt="zynpnd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zynpnd&show_icons=true&theme=radical&locale=en" alt="zynpnd" /></p>
 
 
 
