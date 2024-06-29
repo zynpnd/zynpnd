@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zynpnd&label=Profile%20views&color=0e75b6&style=flat" alt="zynpnd" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Python**
+- 🌱 I’m currently learning **Javascript, React, Node.js**
 
-- 💬 Ask me about **PHP,Laravel,HTML/CSS,Asp.Net**
+- 💬 Ask me about **PHP,Laravel,HTML/CSS,REACT,NODE.JS**
 
 - 📫 How to reach me **zeynepnidasarican@gmail.com**
 
